@@ -19,24 +19,24 @@ Research Council, Institute of Biological Resources and Marine
 Biotechnologies - CNR-IRBIM, Ancona, Italy; SZN Anton Dohrn, Fano, 
 Italy), Chryssanthi Antoniadou (School of Biology, Aristotle University 
 of Thessaloniki, Thessaloniki, Greece), Giulia Domizia Aversa 
-(Universit�  la Sapienza di Roma, Roma, Italy), Jamila Ben Souissi 
+(UniversitÃ  la Sapienza di Roma, Roma, Italy), Jamila Ben Souissi 
 (National Institute of Agronomy of Tunisia, University of Carthage, 
-Tunisia), Andrea Blašković (Brijuni National Park, Brijuni, Pula, 
+Tunisia), Andrea BlaÅ¡koviÄ‡ (Brijuni National Park, Brijuni, Pula, 
 Croatia), Valentina Cappanera (Portofino Marine Protected Area - 
-Consortium of Management, Portofino, Italy), Marina Chiappi (Universit�  
+Consortium of Management, Portofino, Italy), Marina Chiappi (UniversitÃ  
 Politecnica delle Marche, Ancona, Italy; AP Marine Environmental 
 Consultancy Ltd, Aglantzia, Nicosia, Cyprus), Maria-Francesca Cinti
 (Tavolara Punta Coda Cavallo Marine Protected Area, Tavolara, Olbia, 
 Sassari, Italy), Francesco Colloca (SZN Anton Dohrn, Palermo, Italy), 
 Ivan Cvitkovic (Institute of Oceanography 
-and Fisheries, Split, Croatia), Manuela D’Amen (National Research 
+and Fisheries, Split, Croatia), Manuela Dâ€™Amen (National Research 
 Council, Institute of Biological Resources and Marine Biotechnologies - 
 CNR-IRBIM, Ancona, Italy; SZN Anton Dohrn, Fano, Italy), Marija 
-Despalatović (Institute of Oceanography and Fisheries, Split, Croatia), 
+DespalatoviÄ‡ (Institute of Oceanography and Fisheries, Split, Croatia), 
 Antonio Di Franco (Stazione Zoologica Anton Dohrn, Department of 
 Integrative Marine Ecology, Sicily Marine Center, Palermo, Italy), 
 Charalampos Dimitriadis (National Marine Park of Zakynthos, 
-El.Venizelou, Zakynthos Island, Greece), Branko Dragičević (Institute of 
+El.Venizelou, Zakynthos Island, Greece), Branko DragiÄeviÄ‡ (Institute of 
 Oceanography and Fisheries, Split, Croatia), Emanuela Fanelli 
 (Department of Life and Environmental Sciences, Polytechnic University 
 of Marche, Ancona, Italy), Tomaso Fortibuoni (Italian Institute for 
@@ -44,13 +44,13 @@ Environmental Protection and Research, Ozzano dell'Emilia, Italy),
 Giulio Franzitta (Stazione Zoologica Anton Dohrn, RIMAR Dept., Naples, 
 Italy), Chiara Gambardella (Institute for the Study of Anthropic Impacts 
 and Sustainability in the Marine Environment, National Research Council, 
-Genova 16149, Italy), Joaquim Garrabou (Institut de Ciències del 
-Mar–Consell Superior d'Investigacions Científiques,Barcelona, Spain), 
+Genova 16149, Italy), Joaquim Garrabou (Institut de CiÃ¨ncies del 
+Marâ€“Consell Superior d'Investigacions CientÃ­fiques,Barcelona, Spain), 
 Tatiana Geloso (Mare Nostrum Diving, Palermo, Italy), Raouia Ghanem 
 (Biodiversity, Biotechnology and Climate Change Laboratory-LR11ES09, 
 University of Tunis El Manar, Tunisia), Andrea Gori(Universitat de 
 Barcelona, Barcelona, Spain),Martina Hervat (Brijuni National Park, 
-Brijuni, Pula, Croatia), Andres Izquierdo-Muñoz (Departamento de 
+Brijuni, Pula, Croatia), Andres Izquierdo-MuÃ±oz (Departamento de 
 Ciencias del Mar y Biologia Aplicada, Universidad de Alicante, Alicante, 
 Spain), Gabriele La Mesa (Italian Institute for Environmental Protection 
 and Research, Roma, Italy), Cristina Linares Prat (Universitat de 
@@ -63,23 +63,23 @@ for Environmental Protection and Research, Roma, Italy), Paula Moschella
 (Italian National Agency for New Technologies - ENEA, Marine Environment 
 Research Centre - S. Teresa, Pozzuolo di Lerici, La Spezia, Italy),
 Pieraugusto Panzalis (Tavolara Tavolara Punta Coda Cavallo Marine 
-Protected Area, Tavolara, Olbia, Sassari, Italy), Mišo Pavičić 
+Protected Area, Tavolara, Olbia, Sassari, Italy), MiÅ¡o PaviÄiÄ‡ 
 (Institute of Oceanography and Fisheries, Split, Croatia), 
-Alfonso A. Ramos-Esplá (Department of Marine Sciences, University of 
+Alfonso A. Ramos-EsplÃ¡ (Department of Marine Sciences, University of 
 Alicante, 03080 Alicante, Spain; Marine Research Center of Santa Pola 
 (CIMAR), University of Alicante, 03080 Alicante, Spain), 
 Antonis Petrou (Enalia Physis Environmental Research Centre, Nicosia, 
-Cyprus), Alfonso A. Ramos-Esplá (Department of Marine Sciences, 
+Cyprus), Alfonso A. Ramos-EsplÃ¡ (Department of Marine Sciences, 
 University of Alicante, 03080 Alicante, Spain; Marine Research Center of 
 Santa Pola (CIMAR), University of Alicante, 03080 Alicante, Spain) Luca 
 Saponari Nature Seychelles, The Centre for Environment and Education, 
 Roche Caiman, Mahe, Republic of Seychelles), Giuseppe Scarcella 
 (National Research Council, Institute of Biological Resources and Marine 
 Biotechnologies - CNR-IRBIM, Ancona, Italy), Marco Spoto (Italian 
-National Research Council, CNR-IRBIM, Palermo, Italy), Nika Stagličić 
+National Research Council, CNR-IRBIM, Palermo, Italy), Nika StagliÄiÄ‡ 
 (Institute of Oceanography and Fisheries, Split, Croatia), Dario 
 Vrdoljak (Institute of Oceanography and Fisheries, Split, Croatia), 
-Boris Weitzmann (Parc Natural del Montgrí, illes Medes i Baix Ter. 
+Boris Weitzmann (Parc Natural del MontgrÃ­, illes Medes i Baix Ter. 
 Estartit, Spain), Patrik Joseph Schembri (University of Malta, Msida, 
 Malta). 
 
@@ -92,7 +92,7 @@ species (Epinephelus marginatus, Thalassoma pavo, Sparisoma cretense,
 Coris julis, Sarpa salpa, Serranus scriba, Serranus cabrilla and Caranx 
 crysos) with wide distribution, responsiveness to temperature conditions 
 and easy identification were selected by a network of Mediterranean 
-scientists joined under the CIESM programme ‘Tropical Signals’ 
+scientists joined under the CIESM programme â€˜Tropical Signalsâ€™ 
 https://www.ciesm.org/marine/programs/tropicalization.htm (Azzurro et 
 al. 2011). Soon after, and thanks to the discussion with other expert 
 groups and projects, C. crysos was no longer considered, and Lessepsian 
@@ -102,7 +102,7 @@ Siganus rivulatus, Pterois miles, Stephanolopis diaspros, Parupeneus
 forskali, Pempheris rhomboidea and Torquigener flavimaculosus. 
 Considering the trends of increase  of these species in the 
 Mediterranean Sea (Golani et al. 2021) and their climate affinity 
-(D’Amen, M. and Azzurro, E., 2020), more data on these tropical invaders 
+(Dâ€™Amen, M. and Azzurro, E., 2020), more data on these tropical invaders 
 are expected to come in the future implementation of the study. Data 
 were collected according to a standard and simplified visual census  
 methodology (Garrabou et al. 2019) along standard transects of 5 minutes 
